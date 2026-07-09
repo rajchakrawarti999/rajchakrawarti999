@@ -31,10 +31,7 @@
 | Project | Description |
 |---|---|
 | [DSA Daily Practice](https://github.com/rajchakrawarti999/DSA_Daily_Practice) | Daily DSA & LeetCode solutions in C++ |
-| [100-Day Deep Learning](https://github.com/rajchakrawarti999/100-Day_Deep_Learning) | A 100-day journey through DL fundamentals to advanced neural networks |
-| [100-Day Machine Learning](https://github.com/rajchakrawarti999/100-Day_Machine_Learning) | Structured ML learning path with hands-on projects |
-| [CodeAlpha ML Internship](https://github.com/rajchakrawarti999/-CodeAlpha-ML-Internship) | Full ML pipeline for Iris flower species classification |
-| [Smart Card Clustering System](https://github.com/rajchakrawarti999/Smart_Card_Clustring_Systemp) | Clustering-based smart card data analysis |
+| [CodeAlpha ML Internship](https://github.com/rajchakrawarti999/-CodeAlpha-ML-Internship) | Full ML pipeline for Iris flower species classification ||
 ---
 ### 📊 GitHub Stats
 <p align="center">
