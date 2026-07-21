@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Raj Chakrawarti 👋</h1>
+<h1 align="center">Hi I'm Raj Chakrawarti 👋</h1>
 
 <h3 align="center">Aspiring Software Developer | ML & AI Enthusiast</h3>
 
@@ -16,9 +16,9 @@
 
 ## 📌 About Me
 
-- 🎓 Computer Science student, passionate about **Software Development & Machine Learning**
+- 🎓 Electronics & Communication Engineering (ECE) student, self-taught in **Software Development & Machine Learning**
 - 🔭 Currently focused on **Machine Learning, Deep Learning & Data Structures**
-- 🌱 Learning through structured **100-day ML & DL challenges**
+- ⚡ Combining an ECE background with programming — interested in the overlap of hardware and AI/ML
 - 💻 Comfortable with **C++** for problem solving and **Python** for ML/AI work
 - 📍 Based in Jabalpur, Madhya Pradesh, India
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raj-chakrawarti-069480307/)
@@ -64,8 +64,6 @@
 | Project | Description |
 |---|---|
 | [DSA Daily Practice](https://github.com/rajchakrawarti999/DSA_Daily_Practice) | Daily DSA & LeetCode solutions in C++ |
-| [100-Day Deep Learning](https://github.com/rajchakrawarti999/100-Day_Deep_Learning) | A 100-day journey through DL fundamentals to advanced neural networks |
-| [100-Day Machine Learning](https://github.com/rajchakrawarti999/100-Day_Machine_Learning) | Structured ML learning path with hands-on projects |
 | [CodeAlpha ML Internship](https://github.com/rajchakrawarti999/-CodeAlpha-ML-Internship) | Full ML pipeline for Iris flower species classification |
 | [Smart Card Clustering System](https://github.com/rajchakrawarti999/Smart_Card_Clustring_Systemp) | Clustering-based smart card data analysis |
 
